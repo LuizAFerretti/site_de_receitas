@@ -1,0 +1,219 @@
+body{
+    max-width:1440px;
+    min-width: 375px;   
+    background-color: hsl(30, 54%, 90%)
+}
+.container {   
+    background-color: hsl(0, 0%, 100%);    
+    border-radius: 22px;
+    width: 51.5%;
+    height: 121rem;
+    margin-left: 22.8%;
+    padding: 20px 20px 20px;
+    margin-top: 10%;
+    display: flex;
+    top: 100%;
+    margin-bottom: 10%;
+    justify-content: center;
+}
+.container .container_main img{    
+    display: flex;
+    flex-wrap: wrap;  
+    border-radius: 10px;
+    width: 95%;
+    height: 19rem;   
+    margin: 20px 20px 20px;   
+    justify-content: space-evenly;
+    flex-wrap: wrap;     
+} 
+.container .title_receite{
+    font-family:  "Young Serif", serif;
+    font-weight: 400;
+    opacity: 0.89;
+    font-style: normal;
+    font-size: 41px;
+    margin-top: 50px ; 
+    margin-left: 20px;   
+}
+.container .text_receite{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    opacity: 0.8;
+    line-height: 1.6;
+    font-style: normal;
+    margin-top: 30px;
+    margin-left: 20px;    
+}
+.container_model1{
+    background-color:  hsl(308, 100%, 98%);
+    border-radius: 11px;
+    width: 93%;    
+    margin-top: 28px;
+    margin-left: 20px; 
+    height: 170px;
+    padding-bottom: 30px;
+}
+.container_model_title1{    
+    color: hsl(332, 51%, 32%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 28px;
+    padding-bottom: 18px;
+    padding-left: 28px;
+}
+.container_model1 .objeto{
+    font-size: 19px;   
+    margin-left: 35px;
+    margin-right: 5px;
+    color: hsl(332, 51%, 32%);      
+}
+.container_model1 .menu1{    
+    opacity: 0.8;
+    font-family: "Outfit", sans-serif;
+    font-weight: 640;
+    line-height: 2.2;    
+}
+.container_model_title2{
+    color: hsl(14, 45%, 36%);
+    font-family:  "Young Serif", serif;
+    opacity: 0.9;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.container_model2 .objeto{
+    color: hsl(14, 45%, 36%);    
+    font-size: 19px;   
+    margin-left: 26px;
+    line-height: 1.6;
+}
+.linha2{
+    left: 300px;       
+    margin: 30px 10px 30px ;
+    background-color: rgb(220, 218, 218);
+    height: 1px; 
+}
+.container_model_title3{
+    color: hsl(14, 45%, 36%);
+    font-family:  "Young Serif", serif;
+    opacity: 0.9;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+.container_model3 .objeto{
+    color: hsl(14, 63%, 18%);
+    font-weight: 600;
+    font-size: 19px;   
+    margin-left: 26px;
+    line-height: 2.0;
+    margin-right: 10px;
+}
+.p p{
+    margin-left: 25px;
+    margin-right: 25px;
+    line-height: 1.3;
+    font-size: 18px;
+}
+.p .destaque{
+    font-weight: 700;
+    font-size: 16px;
+    font-family: "Outfit", sans-serif;
+    color: hsl(0, 0%, 35%);   
+}
+.p .numero{
+    color: hsl(13, 47%, 31%);
+    font-weight: 700;
+    font-size: 17px;
+    font-family: "Outfit", sans-serif;
+}
+.container_subtitle1{
+    font-family: "Outfit", sans-serif;
+    color: hsl(0, 1%, 29%);
+    font-weight: 700;
+}
+.linha3{
+    left: 300px;       
+    margin:30px 10px 30px ;
+    background-color: rgb(220, 218, 218);
+    height: 1px; 
+}
+.container_model_title4{
+    color: hsl(14, 39%, 33%);
+    font-family:  "Young Serif", serif;
+    opacity: 0.9;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 12px;
+}
+.container_model4 h1{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    opacity: 0.8;
+    line-height: 1.6;
+    font-style: normal;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.container_model4 h3{
+    margin-left: 50px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    opacity: 0.8;
+    font-style: normal;  
+}
+.container_model4 .total1{
+    color: hsl(14, 39%, 33%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 800;    
+    font-style: normal;
+    margin-left: 244px;
+}
+.container_model4 .total2{
+    color: hsl(14, 39%, 33%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 800;    
+    font-style: normal;
+    margin-left: 210px;
+}
+.container_model4 .total3{
+    color: hsl(14, 39%, 33%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 800;    
+    font-style: normal;
+    margin-left: 237px;
+}
+.container_model4 .total4{
+    color: hsl(14, 39%, 33%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 800;    
+    font-style: normal;
+    margin-left: 237px;
+}
+.container_model4 .sub_linha3{
+    left: 300px;       
+    margin:20px 50px 20px ;
+    background-color: rgb(220, 218, 218);
+    height: 1px; 
+}
+
+
+
+
+
+
+
+
+
+
+
